@@ -1,4 +1,4 @@
-(function() {
+window.onload = function() {
     var t = 820;
     var a = 250;
     var r = 7;
@@ -280,4 +280,4 @@
         f.clearRect(0, 0, f.canvas.width, f.canvas.height);
         l(f)
     }, 50)
-})();
+}
