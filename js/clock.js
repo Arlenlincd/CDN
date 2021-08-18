@@ -1,4 +1,3 @@
-import Vue from "vue";
 (function() {
     var t = 820;
     var a = 250;
